@@ -244,8 +244,51 @@
 .footerban
 {
     background-image: url(https://preview.colorlib.com/theme/thecharity/images/foot-bg.jpg.webp);
-    height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    width: 100%;
+
+}
+.icon{
+    text-decoration: none;
+    color: #ff4800;
+    font-size: 25px;
+}
+.h2{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 45px;
+}
+.fotuse{
+    text-decoration: none;
+    color: #929191;
+    font-size: 17px;
+    line-height: 35px;  
+}
+.fotuse:hover {
+    color: #ff4800;
+}
+.fotn{
+    text-decoration: none;
+    color: #929191;
+    font-size: 15px;
+}
+.fotn:hover{
+    color: #ff4800;
+}
+.icon1 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+.icon2 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+.box{
+    font-size: 17px;
 }

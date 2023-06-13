@@ -18,7 +18,7 @@
 
 .btn1 {
     width: 155px;
-    height: 55px;
+    height: 58px;
     border: none;
     font-size: 15px;
     font-weight: 500;
@@ -95,4 +95,92 @@
     border-radius: 22px;
     background-color: #ff4800;
     /* margin-left: 12px; */
+}
+.icon{
+    text-decoration: none;
+    color: #ff4800;
+    font-size: 25px;
+}
+.icon1 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.icon2 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+.form{
+    padding: 35px 20px 55px;
+    background: #edf3f5;
+}
+.minif{
+    width: 100%;
+    padding: 12px 24px;
+    margin-bottom: 18px;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    line-height: 1;
+}
+.btn2 {
+    height: 53px;
+    width: 150px;
+    border-radius: 29px;
+    border: none;
+    font-size: medium;
+    background-color: #ff4800;
+    color: white;
+    font-weight: 600;
+}
+.footerban
+{
+    background-image: url(https://preview.colorlib.com/theme/thecharity/images/foot-bg.jpg.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.icon{
+    text-decoration: none;
+    color: #ff4800;
+    font-size: 25px;
+}
+.h2{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 45px;
+}
+.fotuse{
+    text-decoration: none;
+    color: #929191;
+    font-size: 17px;
+    line-height: 35px;  
+}
+.fotuse:hover {
+    color: #ff4800;
+}
+.fotn{
+    text-decoration: none;
+    color: #929191;
+    font-size: 15px;
+}
+.fotn:hover{
+    color: #ff4800;
+}
+.icon1 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+.icon2 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+.box{
+    font-size: 17px;
 }
