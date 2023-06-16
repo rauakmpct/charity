@@ -170,10 +170,11 @@
 .lovetext {
     line-height: 1.6;
     color: #fff;
+    font-size: 50px;
 }
 
 .lovepera {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 2;
     color: #edf3f5;
 }

@@ -167,3 +167,15 @@
 .box{
     font-size: 17px;
 }
+.img2018{
+    animation: up-down 10s ease-in-out infinite alternate-reverse both;
+}
+@keyframes up-down{
+    0%{
+        transform: translate(10px,30px);
+    }
+    100%{
+        transform: translate(10px,-30px);
+    }
+
+}
